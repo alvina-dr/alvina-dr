@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 My name's Alvina and I'm a french gameplay programmer. I've worked for a year and a half at BlanketGames and am now completing my master's degree at CNAM-ENJMIN.
 
 ## 🔗 Links
